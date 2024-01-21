@@ -1,0 +1,45 @@
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  font-family: "Outfit", sans-serif;
+  font-weight: 500;
+  color: black;
+}
+.attribution a {
+  text-decoration: none;
+}
+
+.card-text {
+  font-family: "Outfit", sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  color: hsl(220, 15%, 55%);
+}
+
+.card-title {
+  font-family: "Outfit", sans-serif;
+  font-weight: 700;
+  font-size: 28px;
+  color: hsl(218, 44%, 22%);
+}
+
+body {
+  background-color: hsl(212, 45%, 89%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.card {
+  padding: 55px;
+  color: hsl(0, 0%, 100%);
+}
+
+.rainbow-text {
+  background: linear-gradient(45deg, #ff0000, #ff9900, #3399ff, #cc33ff);
+  -webkit-background-clip: text;
+  color: transparent;
+  display: inline-block;
+}
