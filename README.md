@@ -37,7 +37,7 @@ Mobile dimension image:
 
 ### Links
 
-- Solution URL: [](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/urban-qr-code-component-created-with-bootstrap-and-animatecss-VxJbd9oX43](https://your-solution-url.com)
 - Live Site URL: [https://topcowmoo.github.io/urban-qr-code-component/](https://your-solution-url.com)
 
 ## My Process
