@@ -19,7 +19,7 @@
 .card-title {
   font-family: "Outfit", sans-serif;
   font-weight: 700;
-  font-size: 28px;
+  font-size: 23px;
   color: hsl(218, 44%, 22%);
 }
 
@@ -33,7 +33,6 @@ body {
 }
 
 .card {
-  padding: 55px;
   color: hsl(0, 0%, 100%);
 }
 
@@ -42,4 +41,20 @@ body {
   -webkit-background-clip: text;
   color: transparent;
   display: inline-block;
+}
+
+.card-img-top {
+  width: 300px;
+  height: 300px;
+  border-radius: 4%;
+}
+
+.container-lg {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: auto;
+  margin: 0;
+  width: auto;
+  overflow: hidden;
 }
